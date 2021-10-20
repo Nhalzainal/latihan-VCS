@@ -4,4 +4,4 @@ Ini gambarnya
 ![gambar](screenshot/ss.png)
 ### Tutorial
 Ini langkah-langkah nya
-![ganbar](screenshot/ss1.png)
+![ganbar](screenshot/ss2.png)
